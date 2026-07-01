@@ -35,6 +35,7 @@ Random password Generator is a python application that creates secure passwords 
 2.Download 'password_generator.py'
 
 3.Run the Program:
+
   python password_generator.py
 
 ## Author 
